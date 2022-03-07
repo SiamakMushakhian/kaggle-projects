@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+/Titanic/gender_submission.csv
+/Titanic/train.csv
+/Titanic/test.csv
